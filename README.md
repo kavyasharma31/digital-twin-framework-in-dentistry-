@@ -45,24 +45,24 @@ This framework integrates aspects of **geometric modeling**, **augmented reality
 ┣ 📜README.md # Project documentation
 ┗ 📜requirements.txt # Python dependencies
 
-# 📊 Use Cases
+## 📊 Use Cases
 Dental education and anatomy exploration
 
 Pre-operative planning and treatment simulation
 
 Research in digital health and twin-based modeling
 
-# 📌 Future Scope
+## 📌 Future Scope
 Integration with real-time intraoral scanners
 
 Deployment as a web or mobile AR app
 
 Extending to orthodontics and implantology modules
 
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions, suggestions, and new modules are welcome. Feel free to fork the repo and open a pull request!
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 🙋‍♀️ Maintainer
